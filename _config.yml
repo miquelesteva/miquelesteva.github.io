@@ -2,23 +2,22 @@
 #
 
 # Site settings
-title: Spectral
+title: Portofolio de Miquel
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Personal Portfolio  
+  by Miquel Esteva
+owner: Miquel Esteva
+first_published: 2018
+email: miquel.esteva9@gmail.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://miquelesteva.github.io/"
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  twitter: https://twitter.com/miquel403
+  github: https://github.com/miquelesteva
+#  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/Miquel Esteva
   google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: /contact/
   #flickr:
   #instagram:
   #youtube-square:
