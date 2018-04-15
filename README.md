@@ -89,10 +89,29 @@ Dicha página web consta de tres apartados:
 	│   ├── head.html
 	│   └── scripts.html
 	├── index.html
-	└── _layouts
-	    ├── default.html
-	    ├── landing.html
-	    └── page.html
+	├── js
+	│   ├── ie
+	│   │   ├── backgroundsize.min.htc
+	│   │   ├── html5shiv.js
+	│   │   └── respond.min.js
+	│   ├── jquery.min.js
+	│   ├── jquery.scrollex.min.js
+	│   ├── jquery.scrolly.min.js
+	│   ├── main.js
+	│   ├── skel.min.js
+	│   └── util.js
+	├── _layouts
+	│   ├── default.html
+	│   ├── landing.html
+	│   └── page.html
+	├── README.md
+	└── _sass
+	    └── libs
+		├── _functions.scss
+		├── _mixins.scss
+		├── _skel.scss
+		└── _vars.scss
+
 
 
 
